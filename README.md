@@ -2,8 +2,8 @@
 Empezando con las operaciones aggregate.
 ### El contenido se reparte en:
 - La carpeta **src** con todo el código, las *colecciones* y las *consultas*:
-  - ventas.js > consultas por método find
-  - consultas.js > Personas que quieren trabajar en la empresa
+  - ventas.js > Datos
+  - consultas.js > Consultas por método aggregate
 - En estos se usan los siguientes operadores:
   ```
   $match
@@ -16,4 +16,3 @@ Empezando con las operaciones aggregate.
   $addToSet
   y Operadores de fecha 
   ```
-
